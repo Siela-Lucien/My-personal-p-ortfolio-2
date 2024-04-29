@@ -1,0 +1,22 @@
+{
+    "recommendations": [
+        "bianxianyang.htmlplay",
+        "xabikos.javascriptsnippets",
+        "solnurkarim.html-to-css-autocompletion",
+        "ms-vscode.js-debug-nightly",
+        "ritwickdey.liveserver",
+        "yandeu.five-server",
+        "pkief.material-icon-theme",
+        "techer.open-in-browser",
+        "esbenp.prettier-vscode",
+        "ms-python.python",
+        "ms-python.debugpy",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-complete-tag",
+        "aliariff.auto-add-brackets",
+        "janne252.fontawesome-autocomplete",
+        "ionutvmi.path-autocomplete",
+        "bladnman.auto-align",
+        "gabrielgrinberg.auto-run-command"
+    ]
+}
